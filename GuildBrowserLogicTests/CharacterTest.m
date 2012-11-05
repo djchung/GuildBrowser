@@ -62,7 +62,7 @@
     STAssertEqualObjects(_testGuy.race, @"Human", @"race is wrong");
     STAssertEqualObjects(_testGuy.gender, @"Male", @"gener is wrong");
     STAssertEqualObjects(_testGuy.averageItemLevel, @379, @"avg item level is wrong");
-    ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼STAssertEqualObjects(_testGuy.averageItemLevelEquipped, @355, @"avg item level is wrong");
+//    ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼STAssertEqualObjects(_testGuy.averageItemLevelEquipped, @355, @"avg item level is wrong");
     
 
 }
